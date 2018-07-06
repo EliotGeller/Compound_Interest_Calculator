@@ -1,0 +1,2 @@
+android.app.Application
+com.companyname.Compound_Interest_Calculator
